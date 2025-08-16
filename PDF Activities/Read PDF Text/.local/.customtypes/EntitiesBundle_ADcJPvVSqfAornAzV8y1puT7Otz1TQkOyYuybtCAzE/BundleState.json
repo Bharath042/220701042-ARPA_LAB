@@ -1,0 +1,13 @@
+{
+  "assemblyStates": {
+    "C562A049AFB_v2_sub_g.0Em3H4Z12sC1cYVDb2H2ii94": {
+      "namespace": "UiPath.IntegrationService.Activities.SWEntities.C562A049AFB_v2_sub_generateChatCompletion_Create.Bundle",
+      "providerName": "CustomEntities",
+      "key": {
+        "name": "UiPath.IntegrationService.Activities.SWEntities.C562A049AFB_v2_sub_generateChatCompletion_Create",
+        "hash": "WURZQ0EydURWdHVvSVJpeXlsS2RvRGlMeDdnNncxUGI5N05EQlIzRzg5TFNBaHpJNjdvb2d2NDU4eHN2R3l6YWsxWDFodEJ3Y1BETGlmVUtSckFrRFE9PQ",
+        "assemblyName": "C562A049AFB_v2_sub_g.0Em3H4Z12sC1cYVDb2H2ii94"
+      }
+    }
+  }
+}
