@@ -1,0 +1,12 @@
+﻿{
+  "Name": "Chrome Home  Rajalakshmi Engineering College (REC)",
+  "Type": "App",
+  "Id": "U91QTmssXkeQ35cPIowUdA",
+  "Reference": "JTppIvaSIkKF-bEsv562Dw/U91QTmssXkeQ35cPIowUdA",
+  "Created": "2025-08-18T07:58:51.2690555Z",
+  "Updated": "2025-08-18T07:58:51.2690555Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
