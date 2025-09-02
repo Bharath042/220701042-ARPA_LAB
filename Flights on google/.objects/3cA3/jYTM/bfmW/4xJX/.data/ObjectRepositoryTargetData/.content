@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="pNRptZ9Y_U-vghyFnERRHw" Reference="5auLeQ8P8kuWuXr9DovZ6g/4xJX8PnMXEuL71iPExsxbg" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:scg="clr-namespace:System.Collections.Generic;assembly=System.Private.CoreLib" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" DesignTimeRectangle="994, 580, 54, 54" FullSelectorArgument="[string.Format(&quot;&lt;webctrl aria-role='gridcell' idx='{0}' tag='DIV' /&gt;&quot;, intDate)]" Guid="3f8b5799-5a4a-4f00-8daf-e580e35759f4" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Find Cheap Flights from Chennai to London - Google Flights' /&gt;" SearchSteps="Selector" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="f191b077791cb41b2978bbdfd1344c8f.png" xmlns="">0pQsJyzb5TEqqAo6fzTtQQg</imageRef>
+    </TargetAnchorable>
+    <scg:List x:TypeArguments="ObjectRepositoryVariableData" x:Key="Variables" Capacity="1">
+      <ObjectRepositoryVariableData Name="intDate" />
+    </scg:List>
+    <x:String x:Key="ActivityType">Click</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>

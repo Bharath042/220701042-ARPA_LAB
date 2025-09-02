@@ -1,0 +1,13 @@
+﻿{
+  "Name": "One way",
+  "Type": "Element",
+  "Id": "lPb7OPmZjEG_2u9Dg-w0Pw",
+  "Reference": "5auLeQ8P8kuWuXr9DovZ6g/lPb7OPmZjEG_2u9Dg-w0Pw",
+  "ParentRef": "5auLeQ8P8kuWuXr9DovZ6g/bfmWWI5-M0qAGa66iOLzkQ",
+  "Created": "2025-09-02T06:19:10.9496993Z",
+  "Updated": "2025-09-02T06:19:10.9496993Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=25.10.13.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=25.6.0.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}

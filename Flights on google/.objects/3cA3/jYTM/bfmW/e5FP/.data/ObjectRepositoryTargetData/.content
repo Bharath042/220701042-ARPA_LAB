@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-16"?>
+<ObjectRepositoryTargetData ContentHash="cF1MJca4LEWul7aGg5h_IQ" xmlns="http://schemas.uipath.com/workflow/activities/uix" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
+  <ObjectRepositoryTargetData.Data>
+    <TargetAnchorable x:Key="TargetAnchorable" BrowserURL="google.com/travel/flights" CVScreenId="79ff7285-e9db-4b6e-91d7-bb6355e860fd" CvElementArea="744, 722, 320, 67" CvType="InputBox" DesignTimeRectangle="746, 725, 317, 63" ElementType="InputBox" FullSelectorArgument="&lt;webctrl aria-label='Where to? ' tag='INPUT' /&gt;" Guid="52127747-552a-477a-aad8-64477cebcee5" ScopeSelectorArgument="&lt;html app='chrome.exe' title='Find Cheap Flights Worldwide &amp;amp; Book Your Ticket - Google Flights' /&gt;" SearchSteps="Selector, CV" Version="V6" Visibility="Interactive" WaitForReadyArgument="Interactive">
+      <imageRef attrName="InformativeScreenshot" originalValue="24df81b290567c6bfb1d053dcac97b9e.png" xmlns="">09OHAcdxp1Em3fiEqrcLmSw</imageRef>
+    </TargetAnchorable>
+    <x:String x:Key="ActivityType">TypeInto</x:String>
+  </ObjectRepositoryTargetData.Data>
+</ObjectRepositoryTargetData>
