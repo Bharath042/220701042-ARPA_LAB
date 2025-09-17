@@ -18780,9 +18780,9 @@
     "restore": {
       "projectUniqueName": "PowerShell",
       "projectName": "PowerShell",
-      "projectPath": "C:\\uipath\\ARPA\\PowerShell\\.local",
+      "projectPath": "E:\\From c drive\\OneDrive\\Documents\\UiPath\\ARPA\\PowerShell\\.local",
       "packagesPath": "C:\\Users\\VICTUS\\.nuget\\packages\\",
-      "outputPath": "C:\\uipath\\ARPA\\PowerShell\\.local",
+      "outputPath": "E:\\From c drive\\OneDrive\\Documents\\UiPath\\ARPA\\PowerShell\\.local",
       "UsingMicrosoftNETSdk": false,
       "restoreAuditProperties": {
         "enableAudit": "False"
